@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <author>
+    <name>Hockey Canada</name>
+  </author>
+  <id>https://www.hockeycanada.ca/en-ca/team-canada/women</id>
+  <title>Hockey Canada - Women&#39;s</title>
+  <updated>2024-09-07T17:03:09-04:00</updated>
+  <entry>
+    <id>https://www.hockeycanada.ca//en-ca/news/womens-camp-roster-named-2024-25-nwt</id>
+    <link href="https://www.hockeycanada.ca//en-ca/news/womens-camp-roster-named-2024-25-nwt"/>
+    <published>2024-09-03T00:00:00-04:00</published>
+    <title>48 players invited to Canada’s National Women’s Team September Camp, presented by BFL CANADA</title>
+    <updated>2024-09-03T00:00:00-04:00</updated>
+    <dc:date>2024-09-03T00:00:00-04:00</dc:date>
+  </entry>
+  <entry>
+    <id>https://www.hockeycanada.ca//en-ca/news/roster-named-for-usa-series-2024-25-nwu18t</id>
+    <link href="https://www.hockeycanada.ca//en-ca/news/roster-named-for-usa-series-2024-25-nwu18t"/>
+    <published>2024-08-11T00:00:00-04:00</published>
+    <title>National Women&#39;s Under-18 Team named for series vs. United States</title>
+    <updated>2024-08-11T00:00:00-04:00</updated>
+    <dc:date>2024-08-11T00:00:00-04:00</dc:date>
+  </entry>
+  <entry>
+    <id>https://www.hockeycanada.ca//en-ca/news/summer-rosters-set-2024-25-nwp</id>
+    <link href="https://www.hockeycanada.ca//en-ca/news/summer-rosters-set-2024-25-nwp"/>
+    <published>2024-08-01T00:00:00-04:00</published>
+    <title>Rosters set for National Women&#39;s Under-18 Team selection camp and National Women&#39;s Development Team series vs. U.S.</title>
+    <updated>2024-08-01T00:00:00-04:00</updated>
+    <dc:date>2024-08-01T00:00:00-04:00</dc:date>
+  </entry>
+  <entry>
+    <id>https://www.hockeycanada.ca//en-ca/news/staffs-named-for-2024-25-nwp</id>
+    <link href="https://www.hockeycanada.ca//en-ca/news/staffs-named-for-2024-25-nwp"/>
+    <published>2024-07-30T00:00:00-04:00</published>
+    <title>Coaching staffs set for national women’s teams</title>
+    <updated>2024-07-30T00:00:00-04:00</updated>
+    <dc:date>2024-07-30T00:00:00-04:00</dc:date>
+  </entry>
+  <entry>
+    <id>https://www.hockeycanada.ca//en-ca/news/schedule-announced-for-2024-25-rivalry-series</id>
+    <link href="https://www.hockeycanada.ca//en-ca/news/schedule-announced-for-2024-25-rivalry-series"/>
+    <published>2024-07-09T00:00:00-04:00</published>
+    <title>Rivalry Series schedule announced for 2024-25 season</title>
+    <updated>2024-07-09T00:00:00-04:00</updated>
+    <dc:date>2024-07-09T00:00:00-04:00</dc:date>
+  </entry>
+  <dc:date>2024-09-07T17:03:09-04:00</dc:date>
+</feed>
